@@ -1,0 +1,12 @@
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/bin/Debug/net6.0/CalculatorLibrary.deps.json
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/bin/Debug/net6.0/CalculatorLibrary.dll
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/bin/Debug/net6.0/CalculatorLibrary.pdb
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/CalculatorLibrary.csproj.AssemblyReference.cache
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/CalculatorLibrary.dll
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/refint/CalculatorLibrary.dll
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/CalculatorLibrary.pdb
+/Users/Nikita/RiderProjects/ConsoleApp1/CalculatorLibrary/obj/Debug/net6.0/ref/CalculatorLibrary.dll
