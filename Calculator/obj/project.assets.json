@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Nikita/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/Users/Nikita/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/Nikita/RiderProjects/ConsoleApp1/Calculator/Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "/Users/Nikita/RiderProjects/ConsoleApp1/Calculator/Calculator.csproj",
       "packagesPath": "/Users/Nikita/.nuget/packages/",
-      "outputPath": "/Users/Nikita/RiderProjects/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/Users/Nikita/RiderProjects/ConsoleApp1/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Nikita/.nuget/NuGet/NuGet.Config"
